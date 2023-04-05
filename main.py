@@ -1,2 +1,5 @@
-import bs4
+import tkinter as tk
+from tkinter import font
+import requests
+
 print("hi there")
